@@ -120,3 +120,12 @@ function areaTriangulo(b, a) {
 }
 
 console.log( areaTriangulo(8, 4));
+
+//Objeto
+
+const conejo = {
+    "nombre": "Griselo",
+    "edad": 27,
+    "color": "Gris",
+    "peso": 500,
+}
